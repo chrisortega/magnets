@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neon-mote-358900",
+  "private_key_id": "b9771b9935c30af6d9b8eb63e3f8678f87352340",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYps4APaihIFN7\nNhuN17dryezxMCOxI3svD1t/XYyGhPSpn4U3i7FEeMiWgqKeLuEEn+9ys5HfpYOr\nMtAlHT+Vt2+vS7Wic+O5Pas985BnBk3/Vj1JoOLZVOXhcz9f/pcPDLOPad2XwXly\ns3IJp3yK4MMtRqGk6TwPZkbZZJRkTIDkTcVoCCCDOIiKpEkZtjPZTiP3DjzEkI69\n+9DZbvb2rT1Oy9fPg4xX8c4485n3w7gAFDYZVtOeBOPJrcIFGUWSfVfzRbVKCnfu\nmqEdtRehPv1m5fDbOY8YSmHu0cMZMk5DZAYIbjFTkq0iD6P5ebPTUATJRAfmQbo9\nRtLpkepPAgMBAAECggEAAbTHk6gcxOREGpnxt+Wj1rAUlmOH2ph/bXi5+JP2mKBO\nzcCLMCI/EnlZIJmIMMVsXW1eM0V/iWTjsluoiOmpRsacmHR7rLun3W+rhM8+m3Au\nGf8AQ1zpfC1fPmRX3n5NeO0W6rDvuZz/ewE3cpUtJq45cD2cW+gBdFibzR07LV3L\nG/W7a3hcGIf1zA8q0H07RbYuZF9QlNF+5HEhA+apM2q6Ys0Sf9TLC6x1n0/5ezsW\n9AO6CWPidVKXqlZhyND2K2jscuuz9s/ETJDHeG8GVUW+S1KV7+TmuMgRvV3M92Yq\nYhmvptMKbshIfidybbn1RuYfSkx6TlzjLpRwLaQ2FQKBgQDREOtpz88yhC4D1E3c\nI0shhM1+ljg9G5Ncas4MT5Jcxfk4OlKAvoIDvjP6n6n73gUtPn2WiTvrbpYl+IK2\n4MviEwH9yLTfdO7CSGTxiCZCOA5FDsWZTp6P1gqR2j2eRGHMsSiqb5+RHxZPsjmT\ndYDhnyyoNAKKCVJSb1MYL8FXlQKBgQC667qlRBKjPnQftBQRKtNNadZouS8iYz1B\nBnVtgWmVy2Bi6EdCIYEjyOuuSIWgeadpV/rokKgnMgk4KZJzC5PQwgbY6PvRoi1R\n7dPRD4fs5cGPQaBWrryuo04iaERYIuECFwNaBUGEe4f6B4j5NsZRpFvpoQt1h/Ej\nJDvO9+MxUwKBgQDMDfWYG0qihbzb4/XyrUgBeTuRGFHf4vBbvatK/MdgYaK0LMil\n/EuuF5FoRzqEKNlopZuyuFORoShP+1Sp5pNZHzBMYf+YMutvGXXdAQRGkavr31Ui\nI0hEH6fFX/vQY/II9ck5QSW/YVZHhy8HLCMVFGVj7w+jZyHAcAPskX/mWQKBgENn\nmEHaf2IQtm1sUcQzDkmfPes7xEyBPuiA/L2Fal7THSntmyy0yk3uOVb63f0VgZJS\nYK+W4pxnxb1T+HS2GxKvtSppMc3Rzsf5nGWKVTjPTXJsdvZrQq0zRIzRzrt9sGhB\nhjrjJFIy/cDjELjV0MRGIcLpCSnT4NgMS+kBqRLzAoGALy8zhOOdy/zBh8NKHz68\nu0Y4uWbmIMdQvN8B8FaB6X+dwKAWfamk0u6ev1Li0nTLo5FQ3+z7/Dnz8xhVIYky\nnnhOL2WnNEwsm+8a+u2cLn4LWdD5OUV6tXT5QoY8a+jDKiznm9C/bJlmyTlKtp8f\ntCfbmPvPhulzLtH9UZJZXKA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "magnets3@neon-mote-358900.iam.gserviceaccount.com",
+  "client_id": "102243451576584353839",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/magnets3%40neon-mote-358900.iam.gserviceaccount.com"
+}
